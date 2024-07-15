@@ -1,6 +1,6 @@
 # 30 Days JavaScript Challenge
 
-Welcome to my journey of mastering JavaScript in 30 days! This challenge is organized by [Chai aur Code]([https://chaiaurcode.com/](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge)), and I’m thrilled to be part of it. Here, you'll find all my daily progress and the projects I build along the way.
+Welcome to my journey of mastering JavaScript in 30 days! This challenge is organized by [Chai aur Code](https://chaiaurcode.com/](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge)), and I’m thrilled to be part of it. Here, you'll find all my daily progress and the projects I build along the way.
 
 ## Challenge Overview
 
